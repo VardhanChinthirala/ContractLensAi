@@ -1,0 +1,5 @@
+{
+  "name": "ContractLens AI",
+  "description": "An AI-powered safety auditor for freelancers and small businesses to scan service agreements for predatory legal clauses, providing a health score and negotiation scripts.",
+  "requestFramePermissions": []
+}
